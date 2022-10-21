@@ -54,3 +54,9 @@ Git - это распределенная система управления в
 
     git branch <branch_name>
     
+### Удаление ветки
+
+Для того, чтобы удалить ветку нужно воспользоваться командой git branch -d branch_name
+
+    git branch <branch_name>
+    
